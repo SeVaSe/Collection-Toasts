@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="ГЛАВНАЯ"
+        android:checkable="false"
+
+    />
+    <item
+        android:id="@+id/action_create_toast"
+        android:title="СОЗДАТЬ ТОСТ"
+        android:checkable="false"
+    />
+</menu>
+

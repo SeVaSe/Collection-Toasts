@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:icon="@drawable/ic_launcher_foreground">
+    <item
+        android:id="@+id/action_create_toast"
+        android:title="Создать новый ТОСТ" />
+
+</menu>
